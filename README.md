@@ -12,3 +12,11 @@ I'm a **third-year Computer Science major** and **Technology and Information Man
 - Deepening my knowledge in **Machine Learning** and **Autonomous Systems**.
 - Working on a **Stock Market News Dashboard** and a **Weather App**.
 - Exploring **MERN stack** and **Next.js** for efficient web development.
+
+### 📫 How to reach me:
+- Email: [ajagtap@ucsc.edu](mailto:ajagtap@ucsc.edu) or [anshulsmitajagtap@gmail.com](mailto:anshulsmitajagtap@gmail.com) 
+- [LinkedIn](www.linkedin.com/in/anshul-jagtap)
+- [GitHub](https://github.com/anshuljagtap)
+
+### ⚡ Fun fact:
+When I'm not coding, I love **golfing, running, working out**! I enjoy watching F1, Cricket and Football.
