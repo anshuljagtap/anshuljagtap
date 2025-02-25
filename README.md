@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Anshul Jagtap
 
 ### 🎓 About Me
-I'm a **third-year Computer Science major** and **Technology and Information Management minor** at the **University of California, Santa Cruz**. I'm passionate about software development, Trading Analysis, machine learning, Artificial intelligence and embedded systems. Currently, I'm seeking **Software Engineering internships for Summer 2025**.
+I'm a **third-year Computer Science major** at the **University of California, Santa Cruz**. I'm passionate about software development, Trading Analysis, machine learning, Artificial intelligence, Fintech and embedded systems. Currently, I'm seeking **Software Engineering Full time roles**.
 
 ### 💻 My Work
 - 💼 **Software Engineer Intern at Akhetonics**: Implemented Graph Coloring using C# and .NET for Register Allocation in a compiler. Optimized graph coloring by 60% for graphs with 100,000+ registers.
