@@ -1,9 +1,10 @@
 # Hi there 👋, I'm Anshul Jagtap  
 
 🎓 **About Me**  
-I'm Computer Science Graduate from the University of California, Santa Cruz, passionate about the intersection of **finance, data, and computation**. My work bridges quantitative research, financial modeling/analysis, and algorithmic trading with a strong foundation in software engineering and applied mathematics.  
 
-I’m currently preparing for a Master’s in **Financial Engineering** and looking for roles in **SWE** & **Finance**, focusing on predictive analytics, stochastic modeling, and algorithmic systems.  
+I’m currently pursuing a Master’s in **Financial Engineering** at **University of Southern California** and looking for roles in  **Finance**,**Quantitative Finance** & **Real Estate** focusing on predictive analytics, stochastic modeling, and algorithmic systems.  
+
+I'm Computer Science Graduate from the University of California, Santa Cruz, passionate about the intersection of **finance, data, and computation**. My work bridges quantitative research, financial modeling/analysis, and algorithmic trading with a strong foundation in software engineering and applied mathematics.  
 
 ---
 
@@ -38,12 +39,12 @@ I’m currently preparing for a Master’s in **Financial Engineering** and look
 ---
 
 📫 **Let’s Connect!**  
-📧 Email: [ajagtap@ucsc.edu](mailto:ajagtap@ucsc.edu) or [anshulsmitajagtap@gmail.com](mailto:anshulsmitajagtap@gmail.com)  
+📧 Email: [ajagtap@ucsc.edu](mailto:anshulj@usc.edu) or [anshulsmitajagtap@gmail.com](mailto:anshulsmitajagtap@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/anshul-jagtap) | [GitHub](https://github.com/anshuljagtap) | [Portfolio](https://anshuljagtap.com)  
 
 ---
 
 ⚡ **Fun Fact**  
-When I'm not backtesting or debugging, you’ll find me golfing, watching Formula 1, or diving deep into stock market microstructures and trading psychology.  
+When I'm not backtesting or debugging or analyzing trades, you’ll find me golfing, watching Formula 1, or reading about conspiricy theories.  
 
 ---
